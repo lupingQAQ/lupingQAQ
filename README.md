@@ -12,6 +12,7 @@ Red team operations, from initial access to long-hold persistence.
 ![Evasion](https://img.shields.io/badge/Evasion-AV_|_EDR_|_BYOVD-orange?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud-K8s_|_serverless_|_CI%2FCD-9cf?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-powered_offense_|_LLM_attacks-green?style=flat-square)
+![Java](https://img.shields.io/badge/Java-deserialization_|_gadget_chains-red?style=flat-square)
 
 </div>
 
@@ -32,6 +33,16 @@ English + Chinese, with a searchable docs site and the original XMind mind map.
 [![Docs](https://img.shields.io/badge/docs-site-000?style=flat-square&logo=githubpages)](https://lupingqaq.github.io/impacket-programming-manual/)
 
 Write your own AD PoC with impacket: source-level guides to Kerberos, DCE/RPC, DCOM and WMI programming. Bilingual (EN/ZH) with PDF editions, built from real domain-penetration development work.
+
+---
+
+### [JGD — JavaGadgetDigger](https://github.com/lupingQAQ/JGD)
+[![Stars](https://img.shields.io/github/stars/lupingQAQ/JGD?style=flat-square&color=red)](https://github.com/lupingQAQ/JGD/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/lupingQAQ/JGD/blob/main/LICENSE)
+
+Autonomous agent that mines Java deserialization gadget chains from any JAR directory — static bytecode analysis + dynamic JVM probes + dual-model adversarial auditing → weaponized PoC. One command, zero intermediate decisions: `JARs in → chains + PoCs out`. Includes interactive TUI (EN/CN) and CLI modes. 8 novel chains discovered (1 T1 entry + 6 T2 carriers).
+
+English + Chinese README.
 
 ---
 
