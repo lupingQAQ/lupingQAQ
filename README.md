@@ -53,7 +53,7 @@ English + Chinese README.
 
 <div align="center">
 
-**WeChat MP:** `Security丨Art`
+**WeChat MP:** `IndexSec`
 
 <sub>All published work is for lawful security research, education, and authorized testing.</sub>
 
