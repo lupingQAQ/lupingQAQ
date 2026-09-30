@@ -20,29 +20,10 @@ Red team operations, from initial access to long-hold persistence.
 
 ## Projects
 
-### [Red Team Skill Tree](https://github.com/lupingQAQ/red-team-skill-tree)
-[![Stars](https://img.shields.io/github/stars/lupingQAQ/red-team-skill-tree?style=flat-square&color=red)](https://github.com/lupingQAQ/red-team-skill-tree/stargazers)
-[![Docs](https://img.shields.io/badge/docs-site-000?style=flat-square&logo=githubpages)](https://lupingqaq.github.io/red-team-skill-tree/)
-
-A 24-chapter full-stack offensive security reference: anti-attribution, reconnaissance, penetration testing, code audit, post-exploitation and AD lateral movement, phishing, C2 development, AV/EDR evasion, cloud-native attacks, and AI-powered offense. Updated with 2025-2026 APT techniques.
-
-English + Chinese, with a searchable docs site and the original XMind mind map.
-
-### [Impacket Programming Manual](https://github.com/lupingQAQ/impacket-programming-manual)
-[![Stars](https://img.shields.io/github/stars/lupingQAQ/impacket-programming-manual?style=flat-square&color=red)](https://github.com/lupingQAQ/impacket-programming-manual/stargazers)
-[![Docs](https://img.shields.io/badge/docs-site-000?style=flat-square&logo=githubpages)](https://lupingqaq.github.io/impacket-programming-manual/)
-
-Write your own AD PoC with impacket: source-level guides to Kerberos, DCE/RPC, DCOM and WMI programming. Bilingual (EN/ZH) with PDF editions, built from real domain-penetration development work.
-
----
-
-### [JGD — JavaGadgetDigger](https://github.com/lupingQAQ/JGD)
-[![Stars](https://img.shields.io/github/stars/lupingQAQ/JGD?style=flat-square&color=red)](https://github.com/lupingQAQ/JGD/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/lupingQAQ/JGD/blob/main/LICENSE)
-
-Autonomous agent that mines Java deserialization gadget chains from any JAR directory — static bytecode analysis + dynamic JVM probes + dual-model adversarial auditing → weaponized PoC. One command, zero intermediate decisions: `JARs in → chains + PoCs out`. Includes interactive TUI (EN/CN) and CLI modes. 8 novel chains discovered (1 T1 entry + 6 T2 carriers).
-
-English + Chinese README.
+- **[Red Team Skill Tree](https://github.com/lupingQAQ/red-team-skill-tree)** — 24-chapter full-stack offensive security reference (EN/ZH) · [docs](https://lupingqaq.github.io/red-team-skill-tree/)
+- **[Impacket Programming Manual](https://github.com/lupingQAQ/impacket-programming-manual)** — write your own AD PoC with impacket (EN/ZH/PDF) · [docs](https://lupingqaq.github.io/impacket-programming-manual/)
+- **[JGD](https://github.com/lupingQAQ/JGD)** — autonomous Java deserialization gadget-chain mining agent
+- **[NtObjectManager-MCP](https://github.com/lupingQAQ/ntobjmanager-mcp)** — stateful Windows RPC attack-surface research MCP
 
 ---
 
