@@ -16,6 +16,7 @@ Red team operations, from initial access to long-hold persistence.
 
 [![Website](https://img.shields.io/badge/website-lupingqaq.github.io-12151a?style=flat-square&logo=githubpages)](https://lupingqaq.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-@lupingQAQ-181717?style=flat-square&logo=github)](https://github.com/lupingQAQ)
+[![X](https://img.shields.io/badge/X-@lupingQAQ-000000?style=flat-square&logo=x)](https://x.com/lupingQAQ)
 [![Medium](https://img.shields.io/badge/Medium-@lupingqaq-000000?style=flat-square&logo=medium)](https://lupingqaq.medium.com/)
 [![dev.to](https://img.shields.io/badge/dev.to-@lupingqaq-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/lupingqaq/)
 
