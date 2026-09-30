@@ -14,23 +14,19 @@ Red team operations, from initial access to long-hold persistence.
 ![AI](https://img.shields.io/badge/AI-powered_offense_|_LLM_attacks-green?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-deserialization_|_gadget_chains-red?style=flat-square)
 
+[![Website](https://img.shields.io/badge/website-lupingqaq.github.io-12151a?style=flat-square&logo=githubpages)](https://lupingqaq.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-@lupingQAQ-181717?style=flat-square&logo=github)](https://github.com/lupingQAQ)
+[![Medium](https://img.shields.io/badge/Medium-@lupingqaq-000000?style=flat-square&logo=medium)](https://lupingqaq.medium.com/)
+[![dev.to](https://img.shields.io/badge/dev.to-@lupingqaq-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/lupingqaq/)
+
 </div>
-
----
-
-## Projects
-
-- **[Red Team Skill Tree](https://github.com/lupingQAQ/red-team-skill-tree)** — 24-chapter full-stack offensive security reference (EN/ZH) · [docs](https://lupingqaq.github.io/red-team-skill-tree/)
-- **[Impacket Programming Manual](https://github.com/lupingQAQ/impacket-programming-manual)** — write your own AD PoC with impacket (EN/ZH/PDF) · [docs](https://lupingqaq.github.io/impacket-programming-manual/)
-- **[JGD](https://github.com/lupingQAQ/JGD)** — autonomous Java deserialization gadget-chain mining agent
-- **[NtObjectManager-MCP](https://github.com/lupingQAQ/ntobjmanager-mcp)** — stateful Windows RPC attack-surface research MCP
 
 ---
 
 ## Currently
 
 - Tracking 2025-2026 offensive techniques: ADCS ESC1-ESC16, eBPF rootkits, sleep obfuscation, device-code phishing, AI infrastructure CVEs
-- Maintaining both references above, bilingual, release-driven
+- Maintaining the published references and tooling, bilingual, release-driven
 
 <div align="center">
 
